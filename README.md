@@ -12,14 +12,10 @@ Also because I love working on interesting software projects, I learn some new h
  
 </p>
 <div align="">
- <div align="left">
   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/oel-houm" alt="oel-houm's 42 stats" /></a>
- </div>
- <div align="right">
    <a href="https://github.com/anuraghazra?tab=repositories">
      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark"/>
    </a>
- </div>
  <!--
 <a href="https://github.com/anuraghazra?tab=repositories">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&line_height=40&show_icons=true&theme=dark">
