@@ -1,6 +1,15 @@
-Hi there, 👋
-* I'm Omar 👋
+<h1 align="center">Whoami</h1>
 
+<p align="center">
+TO FILL LATER ..
+</p>
 
+ <div align="center">
+[![oel-houm's 42 stats](https://badge.mediaplus.ma/greenbinary/oel-houm)](https://github.com/oakoudad/badge42)
+</div>
 
-[![oel-houm's 42 stats](https://badge.mediaplus.ma/greenbinary/oel-houm?1337Badge=off&42Network=off)](https://github.com/oakoudad/badge42)
+ ---
+ 
+//
+
+ ---
