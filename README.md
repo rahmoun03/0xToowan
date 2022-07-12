@@ -15,16 +15,16 @@ Also because I love working on interesting software projects, I learn some new h
 
  [![oel-houm's 42 stats](https://badge.mediaplus.ma/greenbinary/oel-houm)](https://github.com/oakoudad/badge42)
  
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+ <a href="https://github.com/anuraghazra?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark"/>
+</a>
+<a href="https://github.com/anuraghazra?tab=repositories">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&line_height=40&show_icons=true&theme=dark">
+</a>
  
 </div>
 
-<a href="https://github.com/0xtoowan?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xtoowan&theme=dark"/>
-</a>
-<a href="https://github.com/0xtoowan?tab=repositories">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xtoowan&line_height=40&show_icons=true&theme=dark">
-</a>
+
 
  ---
  
