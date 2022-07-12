@@ -1,4 +1,4 @@
-<img align="right" src="https://media.giphy.com/media/3oz8xA9gtnyVDPZJHW/source.gif" />
+<img align="" src="https://media.giphy.com/media/3oz8xA9gtnyVDPZJHW/source.gif" />
 
 <h1 align="center">Whoami</h1>
 
