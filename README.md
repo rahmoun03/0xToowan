@@ -1,10 +1,13 @@
 <h1 align="center">Whoami</h1>
 
 <p align="center">
-TO FILL LATER ..
-</p>
+ 
+I'm 0xToowan, I am passionate about coding and cyber security field, I do application security, I have extensive knowledge in a variety of web application security as well, currently I am enjoying the journey and seeking to improve my skill set.
 
- <div align="center">
+Also because I love working on interesting software projects, I learn some new hacking techniques. I build things and sometimes I break things when I want to.
+ 
+</p>
+<div align="center">
 
  [![oel-houm's 42 stats](https://badge.mediaplus.ma/greenbinary/oel-houm)](https://github.com/oakoudad/badge42)
  
@@ -12,6 +15,6 @@ TO FILL LATER ..
 
  ---
  
-//
+..
 
  ---
