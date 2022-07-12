@@ -3,7 +3,6 @@
 
 ---
 
-<br>
 <h1 align="center">Whoami</h1>
 
 <p align="center">
