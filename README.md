@@ -12,7 +12,7 @@ Also because I love working on interesting software projects, I learn some new h
 
 </p>
 
-<div align="center" style="margin-top: 7px">
+<div align="center" style="margin-top: 10px">
    <a align="left" href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/oel-houm" alt="oel-houm's 42 stats" /></a>
 </div>
 
@@ -22,8 +22,5 @@ Also because I love working on interesting software projects, I learn some new h
 </a>
 -->
 
- ---
- 
-..
 
  ---
