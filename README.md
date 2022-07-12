@@ -19,6 +19,13 @@ Also because I love working on interesting software projects, I learn some new h
  
 </div>
 
+<a href="https://github.com/0xtoowan?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xtoowan&theme=dark"/>
+</a>
+<a href="https://github.com/0xtoowan?tab=repositories">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xtoowan&line_height=40&show_icons=true&theme=dark">
+</a>
+
  ---
  
 ..
