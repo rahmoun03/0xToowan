@@ -13,9 +13,7 @@ Also because I love working on interesting software projects, I learn some new h
 </p>
 <div align="">
  <div align="left">
-  
- [![oel-houm's 42 stats](https://badge.mediaplus.ma/greenbinary/oel-houm)](https://github.com/oakoudad/badge42)
- 
+  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/oel-houm" alt="oel-houm's 42 stats" /></a>
  </div>
  <div align="right">
    <a href="https://github.com/anuraghazra?tab=repositories">
