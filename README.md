@@ -15,9 +15,7 @@ Also because I love working on interesting software projects, I learn some new h
 
  [![oel-houm's 42 stats](https://badge.mediaplus.ma/greenbinary/oel-houm)](https://github.com/oakoudad/badge42)
  
- <a href="https://github.com/elliop?tab=repositories">
-  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xtoowanp&theme=dark"/>
- </a>
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
  
 </div>
 
