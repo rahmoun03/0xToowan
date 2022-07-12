@@ -9,7 +9,7 @@ I'm 0xToowan, I am passionate about coding and cyber security field, I do applic
 Also because I love working on interesting software projects, I learn some new hacking techniques. I build things and sometimes I break things when I want to.
  
 </p>
-<div align="center">
+<div align="">
 
  [![oel-houm's 42 stats](https://badge.mediaplus.ma/greenbinary/oel-houm)](https://github.com/oakoudad/badge42)
  
