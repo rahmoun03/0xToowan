@@ -1,6 +1,5 @@
 <img align="" width=100% src="https://media.giphy.com/media/3oz8xA9gtnyVDPZJHW/source.gif"/>
 <br>
-
 ---
 
 <h1 align="center">Whoami</h1>
