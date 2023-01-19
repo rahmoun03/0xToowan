@@ -6,14 +6,12 @@
 
 <p align="center">
  
-I'm 0xToowan, I am passionate about coding and cyber security field, I do application security, I have extensive knowledge in a variety of web application security as well, currently I am enjoying the journey and seeking to improve my skill set.
-
-Also because I love working on interesting software projects, I learn some new hacking techniques. I build things and sometimes I break things when I want to.
+********
 
 </p>
 
 <div align="center" style="margin-top: 10px">
-   <a align="left" href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/oel-houm" alt="oel-houm's 42 stats" /></a>
+   <a align="left" href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/levi/arahmoun" alt="arahmoun's 42 stats" /></a>
 </div>
 
 <!--
